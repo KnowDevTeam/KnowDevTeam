@@ -1,9 +1,11 @@
-# 👥 Members
+# Members
 - @DevMr001
-# ⚙️ Website 
+- Spacebby
+
+# Website 
 - Soon
 
-# 📚 Projects
+# Projects Mc **(bedrock)**
 
 - UHC
 - UHCF
@@ -16,6 +18,16 @@
 - Ranks sistem
 - abilitys HCF,kitmap,UHCF
 - Crates
+
+# Proyects bots **(discord)**
+
+- tickets
+- Giveway
+- Moderation
+- Invite Sistem
+- Mc Status
+- Anti Raid
+- Music 
 
 # About us 
 - 👑 Developers Pocketmine
